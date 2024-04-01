@@ -11,7 +11,7 @@ This repository contains a JavaScript script designed to automate clicking actio
 
 ## How to Use
 
-### Running the Script in Chrome ( Usage Tutoriol: 
+### Running the Script in Chrome ( Usage Tutorial: https://youtu.be/hZ8gi892_h8)
 
 1. **Open your target web page (discord.com and come to lootbox page)** in Google Chrome where you wish to automate clicks.
 
